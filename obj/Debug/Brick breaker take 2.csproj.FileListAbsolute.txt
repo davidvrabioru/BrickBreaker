@@ -1,0 +1,48 @@
+C:\Users\user\source\repos\Brik breaker take 2\Brik breaker take 2\bin\Debug\Brik breaker take 2.exe.config
+C:\Users\user\source\repos\Brik breaker take 2\Brik breaker take 2\bin\Debug\Brik breaker take 2.exe
+C:\Users\user\source\repos\Brik breaker take 2\Brik breaker take 2\bin\Debug\Brik breaker take 2.pdb
+C:\Users\user\source\repos\Brik breaker take 2\Brik breaker take 2\bin\Debug\Interop.AXVLC.dll
+C:\Users\user\source\repos\Brik breaker take 2\Brik breaker take 2\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\source\repos\Brik breaker take 2\Brik breaker take 2\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\user\source\repos\Brik breaker take 2\Brik breaker take 2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\source\repos\Brik breaker take 2\Brik breaker take 2\obj\Debug\Interop.AXVLC.dll
+C:\Users\user\source\repos\Brik breaker take 2\Brik breaker take 2\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\source\repos\Brik breaker take 2\Brik breaker take 2\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\user\source\repos\Brik breaker take 2\Brik breaker take 2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\source\repos\Brik breaker take 2\Brik breaker take 2\obj\Debug\Brick breaker take 2.csproj.ResolveComReference.cache
+C:\Users\user\source\repos\Brik breaker take 2\Brik breaker take 2\obj\Debug\Brik_breaker_take_2.Form1.resources
+C:\Users\user\source\repos\Brik breaker take 2\Brik breaker take 2\obj\Debug\Brik_breaker_take_2.Main.resources
+C:\Users\user\source\repos\Brik breaker take 2\Brik breaker take 2\obj\Debug\Brik_breaker_take_2.Properties.Resources.resources
+C:\Users\user\source\repos\Brik breaker take 2\Brik breaker take 2\obj\Debug\Brick breaker take 2.csproj.GenerateResource.Cache
+C:\Users\user\source\repos\Brik breaker take 2\Brik breaker take 2\obj\Debug\Brick breaker take 2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Brik breaker take 2\Brik breaker take 2\obj\Debug\Brik breaker take 2.exe
+C:\Users\user\source\repos\Brik breaker take 2\Brik breaker take 2\obj\Debug\Brik breaker take 2.pdb
+C:\Users\user\source\repos\Brik breaker take 2\Brik breaker take 2\bin\Debug\game.mov
+C:\Users\user\source\repos\Brik breaker take 2\Brik breaker take 2\obj\Debug\Brik_breaker_take_2.Multiplayer1.resources
+C:\Users\user\source\repos\Brik breaker take 2\Brik breaker take 2\bin\Debug\MACTrackBarLib.dll
+C:\Users\user\source\repos\Brik breaker take 2\Brik breaker take 2\obj\Debug\Brik_breaker_take_2.Settings.resources
+C:\Users\user\source\repos\Brik breaker take 2\Brik breaker take 2\obj\Debug\Brik_breaker_take_2.HighScore.resources
+C:\Users\user\source\repos\Brik breaker take 2\Brik breaker take 2\obj\Debug\Brick breaker take 2.csproj.CopyComplete
+C:\Users\user\source\repos\Brik breaker take 2\Brik breaker take 2\obj\Debug\Brick breaker take 2.csprojAssemblyReference.cache
+D:\Proiecte\Brick Breaker\Brik breaker VS\Brik breaker take 2\obj\Debug\Brik breaker take 2.exe
+D:\Proiecte\Brick Breaker\Brik breaker VS\Brik breaker take 2\obj\Debug\Brik breaker take 2.pdb
+D:\Proiecte\Brick Breaker\Brik breaker VS\Brik breaker take 2\bin\Debug\game.mov
+D:\Proiecte\Brick Breaker\Brik breaker VS\Brik breaker take 2\bin\Debug\Brik breaker take 2.exe.config
+D:\Proiecte\Brick Breaker\Brik breaker VS\Brik breaker take 2\bin\Debug\Brik breaker take 2.exe
+D:\Proiecte\Brick Breaker\Brik breaker VS\Brik breaker take 2\bin\Debug\Brik breaker take 2.pdb
+D:\Proiecte\Brick Breaker\Brik breaker VS\Brik breaker take 2\bin\Debug\MACTrackBarLib.dll
+D:\Proiecte\Brick Breaker\Brik breaker VS\Brik breaker take 2\bin\Debug\Interop.WMPLib.dll
+D:\Proiecte\Brick Breaker\Brik breaker VS\Brik breaker take 2\bin\Debug\AxInterop.WMPLib.dll
+D:\Proiecte\Brick Breaker\Brik breaker VS\Brik breaker take 2\obj\Debug\Brick breaker take 2.csprojAssemblyReference.cache
+D:\Proiecte\Brick Breaker\Brik breaker VS\Brik breaker take 2\obj\Debug\Interop.WMPLib.dll
+D:\Proiecte\Brick Breaker\Brik breaker VS\Brik breaker take 2\obj\Debug\AxInterop.WMPLib.dll
+D:\Proiecte\Brick Breaker\Brik breaker VS\Brik breaker take 2\obj\Debug\Brick breaker take 2.csproj.ResolveComReference.cache
+D:\Proiecte\Brick Breaker\Brik breaker VS\Brik breaker take 2\obj\Debug\Brik_breaker_take_2.Form1.resources
+D:\Proiecte\Brick Breaker\Brik breaker VS\Brik breaker take 2\obj\Debug\Brik_breaker_take_2.Main.resources
+D:\Proiecte\Brick Breaker\Brik breaker VS\Brik breaker take 2\obj\Debug\Brik_breaker_take_2.Multiplayer1.resources
+D:\Proiecte\Brick Breaker\Brik breaker VS\Brik breaker take 2\obj\Debug\Brik_breaker_take_2.Settings.resources
+D:\Proiecte\Brick Breaker\Brik breaker VS\Brik breaker take 2\obj\Debug\Brik_breaker_take_2.HighScore.resources
+D:\Proiecte\Brick Breaker\Brik breaker VS\Brik breaker take 2\obj\Debug\Brik_breaker_take_2.Properties.Resources.resources
+D:\Proiecte\Brick Breaker\Brik breaker VS\Brik breaker take 2\obj\Debug\Brick breaker take 2.csproj.GenerateResource.cache
+D:\Proiecte\Brick Breaker\Brik breaker VS\Brik breaker take 2\obj\Debug\Brick breaker take 2.csproj.CoreCompileInputs.cache
+D:\Proiecte\Brick Breaker\Brik breaker VS\Brik breaker take 2\obj\Debug\Brick breaker take 2.csproj.CopyComplete
