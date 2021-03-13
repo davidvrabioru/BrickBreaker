@@ -46,3 +46,24 @@ D:\Proiecte\Brick Breaker\Brik breaker VS\Brik breaker take 2\obj\Debug\Brik_bre
 D:\Proiecte\Brick Breaker\Brik breaker VS\Brik breaker take 2\obj\Debug\Brick breaker take 2.csproj.GenerateResource.cache
 D:\Proiecte\Brick Breaker\Brik breaker VS\Brik breaker take 2\obj\Debug\Brick breaker take 2.csproj.CoreCompileInputs.cache
 D:\Proiecte\Brick Breaker\Brik breaker VS\Brik breaker take 2\obj\Debug\Brick breaker take 2.csproj.CopyComplete
+E:\6. Proiecte\Brik breaker take 2\bin\Debug\game.mov
+E:\6. Proiecte\Brik breaker take 2\bin\Debug\Brik breaker take 2.exe.config
+E:\6. Proiecte\Brik breaker take 2\bin\Debug\Brik breaker take 2.exe
+E:\6. Proiecte\Brik breaker take 2\bin\Debug\Brik breaker take 2.pdb
+E:\6. Proiecte\Brik breaker take 2\bin\Debug\Interop.WMPLib.dll
+E:\6. Proiecte\Brik breaker take 2\bin\Debug\AxInterop.WMPLib.dll
+E:\6. Proiecte\Brik breaker take 2\obj\Debug\Brick breaker take 2.csprojAssemblyReference.cache
+E:\6. Proiecte\Brik breaker take 2\obj\Debug\Interop.WMPLib.dll
+E:\6. Proiecte\Brik breaker take 2\obj\Debug\AxInterop.WMPLib.dll
+E:\6. Proiecte\Brik breaker take 2\obj\Debug\Brick breaker take 2.csproj.ResolveComReference.cache
+E:\6. Proiecte\Brik breaker take 2\obj\Debug\Brik_breaker_take_2.Form1.resources
+E:\6. Proiecte\Brik breaker take 2\obj\Debug\Brik_breaker_take_2.Main.resources
+E:\6. Proiecte\Brik breaker take 2\obj\Debug\Brik_breaker_take_2.Multiplayer1.resources
+E:\6. Proiecte\Brik breaker take 2\obj\Debug\Brik_breaker_take_2.Settings.resources
+E:\6. Proiecte\Brik breaker take 2\obj\Debug\Brik_breaker_take_2.HighScore.resources
+E:\6. Proiecte\Brik breaker take 2\obj\Debug\Brik_breaker_take_2.Properties.Resources.resources
+E:\6. Proiecte\Brik breaker take 2\obj\Debug\Brick breaker take 2.csproj.GenerateResource.cache
+E:\6. Proiecte\Brik breaker take 2\obj\Debug\Brick breaker take 2.csproj.CoreCompileInputs.cache
+E:\6. Proiecte\Brik breaker take 2\obj\Debug\Brick breaker take 2.csproj.CopyComplete
+E:\6. Proiecte\Brik breaker take 2\obj\Debug\Brik breaker take 2.exe
+E:\6. Proiecte\Brik breaker take 2\obj\Debug\Brik breaker take 2.pdb
